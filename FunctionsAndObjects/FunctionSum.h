@@ -4,4 +4,4 @@
 int Sum(int a, int b);
 int Sum(int a, int b, int c);
 
-#endif //DEV210X_FUNCTIONSUM_H
+#endif
